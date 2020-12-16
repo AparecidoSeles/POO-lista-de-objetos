@@ -1,0 +1,13 @@
+C:\Users\Ariel\OneDrive\Desktop\junior senai\POO-lista-de-objetos\bin\Debug\netcoreapp3.1\POO-lista-de-objetos.exe
+C:\Users\Ariel\OneDrive\Desktop\junior senai\POO-lista-de-objetos\bin\Debug\netcoreapp3.1\POO-lista-de-objetos.deps.json
+C:\Users\Ariel\OneDrive\Desktop\junior senai\POO-lista-de-objetos\bin\Debug\netcoreapp3.1\POO-lista-de-objetos.runtimeconfig.json
+C:\Users\Ariel\OneDrive\Desktop\junior senai\POO-lista-de-objetos\bin\Debug\netcoreapp3.1\POO-lista-de-objetos.runtimeconfig.dev.json
+C:\Users\Ariel\OneDrive\Desktop\junior senai\POO-lista-de-objetos\bin\Debug\netcoreapp3.1\POO-lista-de-objetos.dll
+C:\Users\Ariel\OneDrive\Desktop\junior senai\POO-lista-de-objetos\bin\Debug\netcoreapp3.1\POO-lista-de-objetos.pdb
+C:\Users\Ariel\OneDrive\Desktop\junior senai\POO-lista-de-objetos\obj\Debug\netcoreapp3.1\POO-lista-de-objetos.csprojAssemblyReference.cache
+C:\Users\Ariel\OneDrive\Desktop\junior senai\POO-lista-de-objetos\obj\Debug\netcoreapp3.1\POO-lista-de-objetos.AssemblyInfoInputs.cache
+C:\Users\Ariel\OneDrive\Desktop\junior senai\POO-lista-de-objetos\obj\Debug\netcoreapp3.1\POO-lista-de-objetos.AssemblyInfo.cs
+C:\Users\Ariel\OneDrive\Desktop\junior senai\POO-lista-de-objetos\obj\Debug\netcoreapp3.1\POO-lista-de-objetos.csproj.CoreCompileInputs.cache
+C:\Users\Ariel\OneDrive\Desktop\junior senai\POO-lista-de-objetos\obj\Debug\netcoreapp3.1\POO-lista-de-objetos.dll
+C:\Users\Ariel\OneDrive\Desktop\junior senai\POO-lista-de-objetos\obj\Debug\netcoreapp3.1\POO-lista-de-objetos.pdb
+C:\Users\Ariel\OneDrive\Desktop\junior senai\POO-lista-de-objetos\obj\Debug\netcoreapp3.1\POO-lista-de-objetos.genruntimeconfig.cache
